@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "json_test",
+    "name": "JSON test",
+    "authors": [ "TheMurderUnicorn" ],
+    "description": "modfile for testing new json",
+    "category": "items",
+    "dependencies": [ "dda" ]
+  }
+]
