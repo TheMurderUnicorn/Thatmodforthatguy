@@ -7,7 +7,7 @@
     "points": 0,
     "skills": [ { "level": 1, "name": "fabrication" } ],
     "items": {
-      "both": [ "longshirt", "vest", "pants", "socks", "gloves_work", "hard_hat", "boots_steel", "multitool", "water_clean" ],
+      "both": [ "longshirt", "vest", "pants", "socks", "gloves_work", "hat_hard", "boots_steel", "multitool", "water_clean" ],
       "male": [ "briefs" ],
       "female": [ "boy_shorts" ]
     }
