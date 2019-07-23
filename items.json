@@ -1,0 +1,15 @@
+[
+  {
+    "type": "profession",
+    "ident": "garbage_person",
+    "name": { "male": "Garbage Man", "female": "Garbage Woman" },
+    "description": "You were picking the local garbage when the cataclysm came, the only thing left with you is just junk and some useless knowledge.",
+    "points": 0,
+    "skills": [ { "level": 1, "name": "fabrication" } ],
+    "items": {
+      "both": [ "longshirt", "vest", "pants", "socks", "gloves_work", "hard_hat", "boots_steel", "multitool", "water_clean" ],
+      "male": [ "briefs" ],
+      "female": [ "boy_shorts" ]
+    }
+  }
+]	
