@@ -1,11 +1,11 @@
 [
   {
     "type": "MOD_INFO",
-    "ident": "json_test",
-    "name": "JSON test",
+    "ident": "garb_pers",
+    "name": "Garbage Prof",
     "authors": [ "TheMurderUnicorn" ],
-    "description": "modfile for testing new json",
-    "category": "items",
+    "description": "adds that guys garbageman",
+    "category": "misc_additions",
     "dependencies": [ "dda" ]
   }
 ]
